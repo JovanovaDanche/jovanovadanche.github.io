@@ -1,0 +1,84 @@
+body{
+    background-color: #f4f3ee;
+    margin: 0;
+    font-family: Garamond, Georgia, Serif;
+}
+.navlevo{
+    font-size: 30px;
+    float: left;
+    margin-left: 50px;
+    color:#f4f3ee ;
+}
+.navdesno{
+    float: right;
+    padding-bottom: 7px;
+    margin-right: 60px;
+    margin-top: 15px;
+}
+li{
+    display: inline;
+    list-style-type: none;
+}
+.topnav{
+    background-color: rosybrown;
+    width: 100%;
+    height: 100px;
+    font-family:Brush Script MT, Brush Script Std, cursive;
+}
+.topnav a{
+    text-decoration: none;
+    color:#f4f3ee ;
+    font-size: 30px;
+    margin: 10px 30px 20px 20px;
+}
+a.active{
+    background-color: #f4f3ee;
+    color: rosybrown;
+    padding: 14px 25px;
+    border-radius:10px;
+}
+.paragraf{
+    font-size: 20px;
+    width: 800px;
+    text-align: center;
+    margin-left: 350px;
+    margin-top: 30px;
+    line-height: 30px;
+    color: #785B5B;
+    border-style: double;
+    padding: 15px;
+}
+.mail{
+    margin-top: 100px;
+    margin-left: 130px;
+}
+.gmail{
+    margin-left: 110px;
+    margin-top: 40px;
+
+}
+.instagram{
+    margin-left: 640px;
+    margin-top: -285px;
+}
+.tekstinsta{
+    margin-left: 40px;
+
+}
+.tekstfb{
+    margin-left: 60px;
+    margin-top: 10px;
+}
+.facebook{
+    float: right;
+    margin-top: -300px;
+    margin-right: 200px;
+}
+a{
+    text-decoration: none;
+    color: #785B5B;
+    font-size: 30px;
+}
+a:hover{
+    color:black;
+}

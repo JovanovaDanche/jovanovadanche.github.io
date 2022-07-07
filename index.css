@@ -1,0 +1,72 @@
+body{
+    background-color: #f4f3ee;
+    margin: 0;
+    font-family: Garamond, Georgia, Serif;
+}
+.navlevo{
+    font-size: 30px;
+    float: left;
+    margin-left: 50px;
+    color:#f4f3ee ;
+}
+.navdesno{
+    float: right;
+    padding-bottom: 7px;
+    margin-right: 60px;
+    margin-top: 15px;
+}
+li{
+    display: inline;
+    list-style-type: none;
+}
+.topnav{
+    background-color: rosybrown;
+    width: 100%;
+    height: 100px;
+    font-family:Brush Script MT, Brush Script Std, cursive;
+}
+.topnav a{
+    text-decoration: none;
+    color:#f4f3ee ;
+    font-size: 30px;
+    margin: 10px 30px 20px 20px;
+}
+a.active{
+    background-color: #f4f3ee;
+    color: rosybrown;
+    padding: 14px 25px;
+    border-radius:10px;
+}
+.levo{
+    background:url("img/jas.jpg") no-repeat;
+    width: 225px;
+    height: 400px;
+    float: left;
+    margin-left: 300px;
+    clear: both;
+}
+.desno{
+    clear: both;
+    width: 500px;
+    float: right;
+    margin-top: -300px;
+    line-height: 30px;
+    color: #785B5B;
+    text-align: justify;
+    border-style: double;
+    padding: 15px;
+}
+.content{
+    width: 70%;
+    margin: 50px 150px 0 40px ;
+    font-size: 20px;
+}
+.desno a{
+    text-decoration:underline;
+    color: #785B5B;
+}
+.desno a:hover{
+    color: black;
+}
+
+
